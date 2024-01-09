@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PuzzleGame" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/textColor</item>
+    </style>
+
+    <style name="Theme.PuzzleGame" parent="Base.Theme.PuzzleGame" />
+</resources>

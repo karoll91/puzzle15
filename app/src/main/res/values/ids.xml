@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_pause_play" type="id" />
+    <item name="tv_pause_start" type="id" />
+</resources>
